@@ -11,37 +11,38 @@ Solicite dois números ao usuário e exiba a soma deles.
 
 Peça um número e exiba a tabuada dele (de 1 a 10).
 
-4️⃣ Contagem Regressiva
+4️⃣ Contagem Regressiva ✅
 
 Peça um número e faça uma contagem regressiva até 0.
 
-5️⃣ Fatorial
+5️⃣ Fatorial ✅
 
 Calcule o fatorial de um número inserido pelo usuário.
 
+
 🧠 Intermediário
-6️⃣ Fibonacci
+6️⃣ Fibonacci ✅
 
 Gere os primeiros n números da sequência de Fibonacci.
 
-7️⃣ Verificador de Palíndromo
+7️⃣ Verificador de Palíndromo ✅
 
 Verifique se uma palavra digitada é um palíndromo (ex: "arara").
 
-8️⃣ Jogo da Adivinhação
+8️⃣ Jogo da Adivinhação ✅
 
 Gere um número aleatório de 1 a 100 e peça ao usuário para adivinhar. Dê dicas de "maior" ou "menor".
 
-9️⃣ Ordenação de Lista
+9️⃣ Ordenação de Lista ✅
 
 Peça uma lista de números ao usuário e os ordene (sem usar sort()).
 
-🔟 Números Primos
+🔟 Números Primos ✅
 
 Verifique se um número digitado é primo.
 
 🏆 Avançado
-1️⃣1️⃣ Sistema de Login
+1️⃣1️⃣ Sistema de Login ✅
 
 Crie um sistema que armazena usuários e senhas e permita login.
 
